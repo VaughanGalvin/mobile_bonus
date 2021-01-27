@@ -1,9 +1,9 @@
 public class Bonus {
     public static void main(String[] args) {
-        int balance_amount = 1000;
-        int topup_amount = 1600;
-        int bonus_sum = topup_amount / 100;
+        int balanceAmount = 1000;
+        int topupAmount = 1600;
+        int bonusSum = topupAmount / 100;
 
-        System.out.println(bonus_sum);
+        System.out.println(bonusSum);
     }
 }
